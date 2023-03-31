@@ -262,8 +262,8 @@
     color: var(--c-danger-title);
 }
 
-input[type=checkbox]:checked + label.strikethrough{
-  text-decoration: line-through;
+.strikethrough:checked + span{
+  text-decoration:line-through
 }
 
 :root {
