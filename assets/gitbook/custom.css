@@ -262,6 +262,10 @@
     color: var(--c-danger-title);
 }
 
+input[type=checkbox]:checked + label.strikethrough{
+  text-decoration: line-through;
+}
+
 :root {
     --c-tip: #42b983;
     --c-tip-bg: #e2f5ec;
