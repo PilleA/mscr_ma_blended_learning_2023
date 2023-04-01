@@ -8,7 +8,6 @@ layout: post
 
 # Deine Meeting Checkliste
 
-
 <audio controls>
   <source src="/mscr_ma_blended_learning_2023/assets/gah-081.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
