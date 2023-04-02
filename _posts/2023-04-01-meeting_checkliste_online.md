@@ -1,5 +1,10 @@
-# Online-Meeting
-
+---
+title: Online-Meeting Checkliste
+author: Phil
+date: 2023-04-01
+category: Meetingmanagement
+layout: post
+---
 ## Vor dem Meeting
 <div class="form-group ">
     <div class="col-md-5">
