@@ -1,10 +1,8 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: MSCR MA Blended Learning 2023
 permalink: /
 ---
-
-MSCR MA Blended Learning 2023
 
 ## License
 
