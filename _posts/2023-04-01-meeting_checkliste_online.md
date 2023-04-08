@@ -6,6 +6,40 @@ category: Meetingmanagement
 layout: post
 ---
 ## Vor dem Meeting
+
+
+1. Überprüfe deine Technik: 
+   - Teste vor der Besprechung deine Audio- und Videoeinstellungen sowie deine Internetverbindung, um sicherzustellen, dass alles funktioniert.
+
+2. Lade die Teilnehmer ein: 
+   - Sende eine Einladung an die Teilnehmer mit Datum, Uhrzeit und Link zur Online-Plattform.
+
+3. Erstelle eine Agenda: 
+   - Erstelle eine Agenda, die die Themen der Besprechung umfasst, um sicherzustellen, dass alle wichtigen Punkte angesprochen werden.
+
+4. Vorbereitung der Materialien: 
+   - Stelle sicher, dass alle benötigten Materialien wie Präsentationen, Dokumente oder Links im Voraus bereitgestellt werden.
+
+5. Pünktlichkeit: 
+   - Stelle sicher, dass du und die Teilnehmer pünktlich zur Besprechung erscheinen, um Verzögerungen zu vermeiden.
+
+6. Störfaktoren beseitigen: 
+   - Reduziere Ablenkungen, indem du dich an einem ruhigen Ort aufhältst und Benachrichtigungen auf deinem Computer oder Handy deaktivierst.
+
+7. Moderation: 
+   - Als Moderator solltest du sicherstellen, dass jeder die Chance hat, seine Meinung zu äußern und die Diskussion auf der Agenda bleibt.
+
+8. Zusammenfassung: 
+   - Am Ende der Besprechung solltest du eine Zusammenfassung der wichtigsten Punkte geben und sicherstellen, dass alle offenen Fragen beantwortet wurden.
+
+9. Feedback: 
+   - Sammle Feedback von den Teilnehmern, um die Besprechung in Zukunft zu verbessern.
+
+10. Abschluss: 
+    - Beende die Besprechung mit einer freundlichen Zusammenfassung und Bedankung aller Teilnehmer für ihre Teilnahme.
+
+
+
 <div class="form-group ">
     <div class="col-md-5">
         <div class="checkbox">
