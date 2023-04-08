@@ -11,7 +11,7 @@ layout: post
 
         <div class="checkbox">
             <input type="checkbox" name="packersOff" id="packers" value="1"/>
-            <label for="packers" class="strikethrough">Teilnehmenden einladen (Datum, Uhrzeit und Link zum Meeting)</label>
+            <label for="packers" class="strikethrough">Teilnehmende einladen (Datum, Uhrzeit und Link zum Meeting)</label>
         </div>
        <div class="checkbox">
             <input type="checkbox" name="packersOff" id="packers" value="2"/>
@@ -19,7 +19,7 @@ layout: post
         </div>
    <div class="checkbox">
             <input type="checkbox" name="packersOff" id="packers" value="3"/>
-            <label for="packers" class="strikethrough">Überprüfen der Technik (Strom, Internet, Kamera, Licht, Ton ...)</label>
+            <label for="packers" class="strikethrough">Technik überprüfen (Strom, Internet, Kamera, Licht, Ton ...)</label>
         </div>
         <div class="checkbox">
             <input type="checkbox" name="packersOff" id="packers" value="4"/>
