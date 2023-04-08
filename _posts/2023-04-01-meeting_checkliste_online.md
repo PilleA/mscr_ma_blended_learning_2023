@@ -7,8 +7,6 @@ layout: post
 ---
 ## Vor dem Meeting
 
-<div class="form-group ">
-    <div class="col-md-5">
         <div class="checkbox">
             <input type="checkbox" name="packersOff" id="packers" value="1"/>
             <label for="packers" class="strikethrough">Teilnehmenden einladen (Datum, Uhrzeit und Link zum Meeting)</label>
@@ -29,9 +27,7 @@ layout: post
             <input type="checkbox" name="packersOff" id="packers" value="5"/>
             <label for="packers" class="strikethrough">Störfaktoren beseitigen (Ruhiger Ort, Computer und Handy im Nicht-Stören-Modus)</label>
         </div>
-            </div>
 
-</div>
 
 ## Nach dem Meeting
 <div class="form-group ">
