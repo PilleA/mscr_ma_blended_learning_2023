@@ -32,7 +32,8 @@ Your browser does not support the audio element.
  <a href=" https://apps.ankiweb.net" target="_blank">Du findest hier das Programm "Anki", mit dem du diese Karten öffnen und bearbeiten kannst.</a>
  
 ## Lernkarten
-<a href="/mscr_ma_blended_learning_2023/assets/besprechungsmanagement_gespraechsstoff.apkg" target="_blank">Lade dir hier die Anki-Karten herunter.</a>
+<a href="/mscr_ma_blended_learning_2023/assets/besprechungsmanagement_lerninhalte.apkg" target="_blank">Lade dir hier die Anki-Karten herunter.</a>
 
 ## Gesprächskarten
-<a href="/mscr_ma_blended_learning_2023/assets/besprechungsmanagement_lerninhalte.apkg" target="_blank">Lade dir hier die Anki-Karten herunter.</a>
+<a href="/mscr_ma_blended_learning_2023/assets/besprechungsmanagement_gespraechsstoff.apkg" target="_blank">Lade dir hier die Anki-Karten herunter.</a>
+
