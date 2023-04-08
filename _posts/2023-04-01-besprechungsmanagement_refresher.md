@@ -18,7 +18,7 @@ Your browser does not support the audio element.
 <a href="/mscr_ma_blended_learning_2023/assets/refresher_meeting-eisbrecher_96.mp3" target="_blank">Lade dir hier den Refresher herunter.</a>
 
 ## Struktur ins Meeting bringen
-Ein klarer Rahmen schafft Platz für Kreativität. Deshalb ist es wichtig, zu Beginn eines Meetings die Rahmenbedingungen mit den Anwesenden zu erarbeiten, sodass man produktiv und kreativ vorankommen kann. Dieses kleine Zeit-Investment am Anfang der Besprechung zahlt sich aus!
+Ein klarer Rahmen schafft Platz für Kreativität. Deshalb ist es wichtig, zu Beginn eines Meetings die Rahmenbedingungen mit den Anwesenden zu erarbeiten, sodass man produktiv und kreativ vorankommen kann. Dieses kleine Zeit-Investment am Anfang der Besprechung zahlt sich aus!  
 Quelle: Høier, M. O., Hersted, L., & Laustsen, L. (2011). *Kreativ procesledelse. Nye veje til bedre praksis* (1. Auflage). Dansk Psykologisk Forlag. S. 30.
 
 <audio controls>
