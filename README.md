@@ -14,7 +14,7 @@ In diesem Beispiel wurde die Seite mit dem Programm [Jekyll](https://github.com/
 
 ## Inhalt
 
-Die Inhalte dieser Seite stehen beispielhaft für Dateien, die in einem Seminar über das Thema "Besprechungsmanagement" für die Lernenden herausgegeben werden. Welche Datei in welcher Phase des Lernprozesses eingebunden ist, entnehmen Sie bitte der eingereichten Abschlussarbeit. 
+Die Inhalte dieser Seite stehen beispielhaft für Dateien, die in einem Seminar über das Thema "Besprechungsmanagement" für die Lernenden herausgegeben werden. Welche Datei in welcher Phase des Lernprozesses eingebunden ist, entnehmen Sie bitte der eingereichten Abschlussarbeit. Bei Fragen wenden Sie sich bitte an [info.zsk@uni-regensburg.de](mailto:info.zsk@uni-regensburg.de).
 
 ### [Lerninhalte](https://pillea.github.io/mscr_ma_blended_learning_2023/besprechungsmanagement/2023-04-01-besprechungsmanagement_lerninhalte.html)
 * Audio: Meeting-Eisbrecher
