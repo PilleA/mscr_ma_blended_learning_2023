@@ -8,7 +8,7 @@ Diese Seite dient als Beispiel im Rahmen einer Abschlussarbeit zur Erlangung des
 
 ## Funktion
 
-Hier gezeigt werden verschiedene Möglichkeiten, die Vermittlung von mündlichen Kompetenzen mit digitalen Elementen in unterschiedlichen Phasen des Unterrichts zu erweitern (Blended Learning). Im Rahmen einer Lehreinheit könnte diese Seite weiter ausgebaut und mit mehr Inhalt gefüllt werden. Die gesamte Seite kann von Lehrpersonal '[geklont](/fork)' und mit eigenen Inhalten ausgestattet werden. 
+Hier gezeigt werden verschiedene Möglichkeiten, die Vermittlung von mündlichen Kompetenzen mit digitalen Elementen in unterschiedlichen Phasen des Unterrichts zu erweitern (Blended Learning). Im Rahmen einer Lehreinheit könnte diese Seite weiter ausgebaut und mit mehr Inhalt gefüllt werden. Die gesamte Seite kann von Lehrpersonal '[geklont](https://pillea.github.io/mscr_ma_blended_learning_2023/)' und mit eigenen Inhalten ausgestattet werden. 
 
 In diesem Beispiel wurde die Seite mit dem Programm [Jekyll](https://github.com/jekyll/jekyll) erstellt, einem Generator für statische Webpages, der sich der Markdown-Syntax bedient. Das Hosting wird mit [GitHub Pages](https://pages.github.com) realisiert.
 
