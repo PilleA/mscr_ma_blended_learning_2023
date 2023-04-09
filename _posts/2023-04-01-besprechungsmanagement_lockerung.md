@@ -25,4 +25,4 @@ Das Aufwärmen braucht nur relativ wenig Zeit – aber deinen vollen Fokus.
 Your browser does not support the audio element.
 </audio>
 
-<a href="/mscr_ma_blended_learning_2023/assets/besprechungsmanagement_stimme_aufwaermen_112.mp3">Lade dir hier die Übung herunter.</a>
+<a href="/mscr_ma_blended_learning_2023/assets/besprechungsmanagement_stimme_aufwaermen_112.mp3" target="_blank">Lade dir hier die Übung herunter.</a>
