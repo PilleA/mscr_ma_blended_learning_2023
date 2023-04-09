@@ -6,7 +6,7 @@ category: Pages
 layout: post
 ---
 
-Diese Seite ist Teil einer eine Abschlussarbeit zur Erlangung des akademischen Grades Master of Arts in Speech Communication and Rhetoric der Universität Regensburg. Für Fragen wenden Sie sich bitte an info.zsk@ur.de
+Diese Seite ist Teil einer eine Abschlussarbeit zur Erlangung des akademischen Grades Master of Arts in Speech Communication and Rhetoric der Universität Regensburg. Für Fragen wenden Sie sich bitte an [info.zsk@uni-regensburg.de](mailto:info.zsk@uni-regensburg.de)
 
 
 ## License
