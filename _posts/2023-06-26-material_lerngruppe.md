@@ -7,6 +7,6 @@ layout: post
 ---
 # Material für Lerngruppentreffen
 
-Hier findest du ein Handout zum Ablauf einer Beratungsrunde innerhalb der Lerngruppentreffen
+Hier findest du ein Handout zum Ablauf einer Beratungsrunde innerhalb der Lerngruppentreffen inklusive einer Methodensammlung:
 
 <a href="/mscr_ma_blended_learning_2023/assets/material_lerngruppe_beratungsrunde.pdf" target="_blank">Lade dir hier die PDF-Datei herunter.</a>
