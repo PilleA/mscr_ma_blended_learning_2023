@@ -22,6 +22,9 @@ Die Inhalte dieser Seite stehen beispielhaft für Dateien, die in einem Seminar 
 * Anki-Karten: Lernkarten
 * Anki-Karten: Gesprächskarten
 
+### [Material für Lerngruppentreffen](https://pillea.github.io/mscr_ma_blended_learning_2023/besprechungsmanagement/2023-06-26-material_lerngruppe.html)
+* PDF: Ablauf einer Besprechungsrunde und Methodensammlung
+
 ### [Lockerung und Aufwärmübungen](https://pillea.github.io/mscr_ma_blended_learning_2023/besprechungsmanagement/2023-04-06-besprechungsmanagement_lockerung.html)
 * Audio: Körperlockerung für eine präsente innere und äußere Haltung
 * Audio: Simme aufwärmen – präsent sein
